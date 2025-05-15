@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/roijun/os-ticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/roijun/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/roijun/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/roijun/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/roijun/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Configuring and Deploying Active Directory within Azure VMs](https://github.com/roijun/configure-ad)
+  - [Creating Users and Managing Accounts](https://github.com/roijun/azure-network-protocols)
 
